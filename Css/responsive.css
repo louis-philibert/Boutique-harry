@@ -1,0 +1,15 @@
+/* Screens Resolution : 960px
+-------------------------------------------------------------------------- */
+@media only screen and (max-width: 960px) {
+	
+	.container{ padding-right:3rem; padding-left:3rem; }
+    
+}
+
+/* Screens Resolution : 1200px
+-------------------------------------------------------------------------- */
+@media only screen and (max-width: 600px) {
+	
+	header img { width: 100%; }
+    
+}
